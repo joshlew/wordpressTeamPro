@@ -44,4 +44,4 @@
 https://developer.wordpress.org/cli/commands/
 
 ###More plugins
-https://wpackagist.org/search
+https://wpackagist.org/search# wordpressCustomization
